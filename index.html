@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.1.3/css/ol.css" type="text/css">
+    <style>
+      .map {
+        height: 400px;
+        width: 100%;
+      }
+    </style>
+    <script src="http://dev.openlayers.org/OpenLayers.js"></script>
+    <title>Afrika Afrika 2016/2017</title>
+  </head>
+  <body>
+    <h2>Afrika 2016/2017</h2>
+    <div id="map" class="map"></div>
+    <script>
+      var map = new OpenLayers.Map({
+        div: "map",
+        layers: [
+          new OpenLayers.Layer.WMS(
+              "WMS", "http://vmap0.tiles.osgeo.org/wms/vmap0",
+              {layers: "basic"}
+          ),
+          new OpenLayers.Layer.Vector("KML", {
+              strategies: [new OpenLayers.Strategy.Fixed()],
+              protocol: new OpenLayers.Protocol.HTTP({
+                  url: "kml/lines.kml",
+                  format: new OpenLayers.Format.KML({
+                      extractStyles: true,
+                      extractAttributes: true,
+                      maxDepth: 2
+                  })
+              })
+          })
+        ],
+        center: new OpenLayers.LonLat(-112.169, 36.099),
+        zoom: 11
+      });
+    </script>
+  </body>
+</html>

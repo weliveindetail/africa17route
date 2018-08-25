@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-mapsme">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>africa17</name>
+  <Placemark>
+    <name>Park Hyatt Zanzibar @Emmanuel</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.18652,-6.163741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>YWCA</name>
+    <TimeStamp><when>2017-02-19T07:21:31Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.287865,-6.814137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wonder Workshop</name>
+    <TimeStamp><when>2017-02-22T08:09:35Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.272056,-6.7770083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nafasi Art Space</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.23536,-6.750305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Building</name>
+    <TimeStamp><when>2017-02-25T07:40:29Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.242885,-6.7520736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>CEFA</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.241447,-6.7522261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>waterway-drain</name>
+    <TimeStamp><when>2017-02-25T18:22:51Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.2416,-6.7645815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Petven Electronics</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.279653,-6.7853271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ubungo international bus terminal</name>
+    <TimeStamp><when>2017-02-27T10:04:55Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.211068,-6.7917651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mahando Street</name>
+    <TimeStamp><when>2017-02-27T12:06:53Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.284065,-6.7439155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Isimila Stoneage Walk</name>
+    <TimeStamp><when>2017-03-01T05:47:13Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.606553,-7.9010912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kalenga</name>
+    <TimeStamp><when>2017-03-01T05:48:36Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.60153,-7.8030625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mbigili Primary School</name>
+    <TimeStamp><when>2017-03-01T05:54:12Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.911063,-7.7229032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Women's center</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.702687,-7.7688885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Crazy Berg</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>33.707266,-9.4572095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-03-05T16:52:05Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.020702,-11.461411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mzoozoozoo Backpackers Lodge</name>
+    <TimeStamp><when>2017-03-05T16:53:07Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.028477,-11.45733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-03-06T12:22:01Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.208719,-11.750589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mufasa Rustic Backpackers Camp</name>
+    <TimeStamp><when>2017-03-15T11:46:52Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.926322,-14.076812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mua Mission</name>
+    <TimeStamp><when>2017-03-15T12:24:12Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.509778,-14.280636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-03-15T16:13:39Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.507295,-14.280783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-03-15T16:13:55Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.507073,-14.281715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-03-23T18:25:59Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.992,-15.804694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Doogles</name>
+    <TimeStamp><when>2017-03-24T10:52:42Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.014969,-15.783761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fisherman's Rest</name>
+    <TimeStamp><when>2017-03-24T14:31:45Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.92706,-15.935507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Veggie Delight</name>
+    <TimeStamp><when>2017-03-24T15:43:52Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.007078,-15.785144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>tourism office</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.005205,-15.789459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Marketplace</name>
+    <TimeStamp><when>2017-03-25T09:22:24Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.006686,-15.788982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Open Arms Infant Home</name>
+    <TimeStamp><when>2017-03-27T06:36:34Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.005727,-15.778582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>YMCA</name>
+    <TimeStamp><when>2017-03-28T09:28:51Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.041008,-26.194353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sandton Skye Apartments</name>
+    <TimeStamp><when>2017-03-28T11:47:47Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.057021,-26.092648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Capital 20 West</name>
+    <TimeStamp><when>2017-03-28T11:49:10Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.054787,-26.092409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Southern Sun Katherine Street</name>
+    <TimeStamp><when>2017-03-28T11:53:24Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.065604,-26.105884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Garden Court Hotel</name>
+    <TimeStamp><when>2017-03-28T11:56:33Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.054349,-26.105429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Intercontinental Johannesburg Sandton Towers</name>
+    <TimeStamp><when>2017-03-28T12:19:07Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.052842,-26.106876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sandton Executive Suites - Hydro Park</name>
+    <TimeStamp><when>2017-03-28T12:55:03Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.054151,-26.09998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Glenalmond Hotel</name>
+    <TimeStamp><when>2017-03-28T12:55:15Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.063013,-26.102312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sandton Skye</name>
+    <TimeStamp><when>2017-03-28T14:40:13Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.052622,-26.098222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ladysmith</name>
+    <TimeStamp><when>2017-03-29T18:50:34Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.778339,-28.551942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-03-30T07:26:12Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.779146,-28.560931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Amphitheatre Lodge and Backpackers</name>
+    <TimeStamp><when>2017-03-30T08:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.158685,-28.643546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cathedral Peak</name>
+    <TimeStamp><when>2017-03-31T16:08:38Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.13356,-28.924983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sentinel Car Park</name>
+    <TimeStamp><when>2017-04-01T08:40:25Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.890897,-28.727243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mahai Campsite</name>
+    <TimeStamp><when>2017-04-01T08:47:10Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.945943,-28.689547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Inkosana Lodge</name>
+    <TimeStamp><when>2017-04-02T16:04:01Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.455887,-29.008076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Winterton</name>
+    <TimeStamp><when>2017-04-03T06:36:15Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.540832,-28.812499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Estcourt</name>
+    <TimeStamp><when>2017-04-03T06:36:48Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.868612,-29.010279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kamberg</name>
+    <TimeStamp><when>2017-04-03T10:24:11Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.66754,-29.384815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rosetta</name>
+    <TimeStamp><when>2017-04-03T10:25:45Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.975187,-29.306351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-03T13:46:48Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.721126,-29.228503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Highmoor Nature Reserve</name>
+    <TimeStamp><when>2017-04-03T14:01:28Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.621481,-29.320566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-04T06:20:41Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.713736,-29.490653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T07:51:25Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.700557,-29.491278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T08:07:22Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.698376,-29.492191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T08:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.69674,-29.492405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T08:18:17Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.695048,-29.492538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T08:22:03Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.693651,-29.493098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T08:36:10Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.688463,-29.494314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T08:46:25Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.684221,-29.494581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T08:50:47Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.68205,-29.495844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T08:56:06Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.680194,-29.496078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T09:05:59Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.678078,-29.495186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T09:16:36Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.674919,-29.495109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T09:29:07Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.669644,-29.492544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T09:32:30Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.668986,-29.492567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T09:43:50Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.667308,-29.492391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T09:56:26Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.665045,-29.493358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T10:03:50Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.662183,-29.496118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T10:10:43Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.659962,-29.496963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T10:13:34Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.659288,-29.49755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T10:22:04Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.658951,-29.500283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T10:57:21Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.657307,-29.501724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T10:59:16Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.658101,-29.500995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:00:34Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.658768,-29.500607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:03:33Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.658664,-29.499171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:05:31Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.659013,-29.498227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:18:56Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.662691,-29.495089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:21:02Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.663763,-29.494126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:25:27Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.666133,-29.49277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:27:53Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.667295,-29.492438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:29:02Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.667484,-29.492096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:31:05Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.668119,-29.492434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:33:28Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.668825,-29.492676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:39:31Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.670267,-29.493024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:42:39Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.671317,-29.494017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:45:24Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.67244,-29.494729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:48:30Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.674089,-29.494881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T11:52:20Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.676116,-29.495196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T12:08:22Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.682701,-29.495717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T12:18:39Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.687725,-29.49368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T12:25:21Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.689666,-29.493825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T12:31:38Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.691016,-29.493457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-04-04T12:44:54Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.69738,-29.492857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sani Lodge</name>
+    <TimeStamp><when>2017-04-04T13:18:08Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.456056,-29.662293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Khotso Guest Farm</name>
+    <TimeStamp><when>2017-04-04T13:20:32Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.426636,-29.746004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Barton Elliot Bird Sanctuary</name>
+    <TimeStamp><when>2017-04-05T08:04:31Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.416668,-30.5375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Umtata Central</name>
+    <TimeStamp><when>2017-04-05T08:05:53Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.783688,-31.589002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tsitsa Falls</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.900108,-31.258975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Coffee Bay</name>
+    <TimeStamp><when>2017-04-05T14:02:07Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.146969,-31.985196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Viewpoint</name>
+    <TimeStamp><when>2017-04-06T09:03:13Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>29.107664,-32.038129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Away With The Fairies Backpackers</name>
+    <TimeStamp><when>2017-04-07T07:02:02Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>26.940922,-32.60178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Calvinia</name>
+    <TimeStamp><when>2017-04-07T07:45:39Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.777217,-31.469433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>AfrikaBurn</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.44893,-32.20082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ceres</name>
+    <TimeStamp><when>2017-04-07T07:58:08Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.309182,-33.368334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cape Town Bakkie Hire</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.45696,-34.076597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Swordfern Hair</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.422401,-33.929675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bazo</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.41945,-33.922034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-09T10:12:19Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>26.925436,-32.594745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>New Bethesda</name>
+    <TimeStamp><when>2017-04-10T06:57:49Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>24.556957,-31.866391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Aardvark Guest House</name>
+    <TimeStamp><when>2017-04-10T09:50:21Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.696685,-33.534673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Valley of Desolation</name>
+    <TimeStamp><when>2017-04-10T09:53:54Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>24.493451,-32.26647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-10T15:49:07Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.596714,-33.747204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>28 Towpath on the Riverfront</name>
+    <TimeStamp><when>2017-04-10T16:46:12Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.572542,-33.840734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nelson Mandela Bay Stadium</name>
+    <TimeStamp><when>2017-04-11T07:46:42Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.598697,-33.937543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Indwe Street</name>
+    <TimeStamp><when>2017-04-11T09:18:48Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.604239,-33.806478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ingwe Street</name>
+    <TimeStamp><when>2017-04-11T09:18:55Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.592017,-33.796645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-11T09:48:54Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.592346,-33.798095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Samrec Penguin Rescue Station</name>
+    <TimeStamp><when>2017-04-11T12:22:00Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.690843,-34.013373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Donkin Reserve</name>
+    <TimeStamp><when>2017-04-11T12:23:24Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.620457,-33.961787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ubuntu Backpackers</name>
+    <TimeStamp><when>2017-04-11T14:50:52Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>24.928916,-34.035425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bloukrantz Backpackers</name>
+    <TimeStamp><when>2017-04-11T15:03:35Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>23.648438,-33.965269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nkhata Bay</name>
+    <TimeStamp><when>2017-04-11T15:20:07Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.29839,-11.606996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mayoka Village Lodge</name>
+    <TimeStamp><when>2017-04-11T15:20:14Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.303564,-11.611864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Senga</name>
+    <TimeStamp><when>2017-04-11T15:21:24Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>34.617007,-13.729644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William's Falls</name>
+    <TimeStamp><when>2017-04-11T15:22:48Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.299932,-15.344168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Queen's View</name>
+    <TimeStamp><when>2017-04-11T15:23:03Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.329461,-15.349905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Trout Farm</name>
+    <TimeStamp><when>2017-04-11T15:23:09Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.301453,-15.354116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mvuu Lodge</name>
+    <TimeStamp><when>2017-04-11T15:26:23Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.294509,-14.850581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ulongwe</name>
+    <TimeStamp><when>2017-04-11T15:26:45Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.170703,-14.842162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Pakachere Backpackers & Creative Centre]]></name>
+    <TimeStamp><when>2017-04-11T15:27:23Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.322141,-15.379335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa Rossa</name>
+    <TimeStamp><when>2017-04-11T15:27:30Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>35.30973,-15.376883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>New Millenium Inn</name>
+    <TimeStamp><when>2017-04-11T15:29:56Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>33.437788,-8.8978459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mbeya Central Bus Stand</name>
+    <TimeStamp><when>2017-04-11T15:29:58Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>33.437648,-8.896892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Flamingo Guest House</name>
+    <TimeStamp><when>2017-04-11T16:45:54Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.191136,-6.1650983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chwaka</name>
+    <TimeStamp><when>2017-04-11T16:47:21Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.436196,-6.165717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dunga</name>
+    <TimeStamp><when>2017-04-11T16:47:27Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.323739,-6.1341664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Maji Lodge</name>
+    <TimeStamp><when>2017-04-11T16:48:43Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.353126,-5.8759322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santa Maria Coral Park</name>
+    <TimeStamp><when>2017-04-11T16:49:42Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.406738,-6.0469906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-11T16:50:09Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.251239,-6.2803865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lukmaan</name>
+    <TimeStamp><when>2017-04-11T16:50:31Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.191434,-6.1634103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bububu</name>
+    <TimeStamp><when>2017-04-11T16:51:06Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.220445,-6.0988641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Summy Restaurant</name>
+    <TimeStamp><when>2017-04-11T16:52:12Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>39.28272,-6.8179854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kapiri Mposhi</name>
+    <TimeStamp><when>2017-04-11T16:52:55Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.67913,-13.969476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kapiri Mposhi</name>
+    <TimeStamp><when>2017-04-11T16:53:00Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.681219,-13.954925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-11T16:54:27Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.451444,-14.441149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kalulu Backpackers Guest House</name>
+    <TimeStamp><when>2017-04-11T16:54:54Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.292489,-15.411111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lusaka</name>
+    <TimeStamp><when>2017-04-11T16:55:25Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.284024,-15.41973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lusaka National Museum</name>
+    <TimeStamp><when>2017-04-11T16:55:32Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.29136,-15.421961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Victoria Falls Bridge Visitor Centre</name>
+    <TimeStamp><when>2017-04-11T16:56:44Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.857679,-17.929588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Danger Point</name>
+    <TimeStamp><when>2017-04-11T16:57:23Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.859058,-17.927133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[LePatino Bed & Breakfast]]></name>
+    <TimeStamp><when>2017-04-11T16:57:52Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.853715,-17.845063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jolly Boys Camp</name>
+    <TimeStamp><when>2017-04-11T16:58:31Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.861477,-17.855028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Olga's The Italian Corner</name>
+    <TimeStamp><when>2017-04-11T16:59:11Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.856553,-17.85309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gaborone</name>
+    <TimeStamp><when>2017-04-11T17:00:10Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.908747,-24.655308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shoprite</name>
+    <TimeStamp><when>2017-04-12T08:28:13Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>24.7708,-34.026747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nature's Valley Rest Camp</name>
+    <TimeStamp><when>2017-04-12T12:13:14Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>23.56339,-33.971945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wild Spirit Backpackers Lodge</name>
+    <TimeStamp><when>2017-04-12T12:13:23Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>23.520842,-33.948501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Noetzie</name>
+    <TimeStamp><when>2017-04-13T08:24:02Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>23.128204,-34.079313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kwetu Guest Farm</name>
+    <TimeStamp><when>2017-04-13T12:53:08Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>20.551926,-34.053356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Takkieskloof Tourism Resort</name>
+    <TimeStamp><when>2017-04-13T12:59:49Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>21.247791,-34.087994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sleeping Beauty Guesthouse</name>
+    <TimeStamp><when>2017-04-13T13:00:20Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>21.261733,-34.088016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Platbos</name>
+    <TimeStamp><when>2017-04-13T13:21:49Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>22.474199,-33.902812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hermanus</name>
+    <TimeStamp><when>2017-04-13T13:41:58Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.236097,-34.417517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stilbaai</name>
+    <TimeStamp><when>2017-04-13T13:52:05Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>21.41111,-34.368333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vleesbaai Duineroetete Camp</name>
+    <TimeStamp><when>2017-04-13T14:01:01Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>21.91488,-34.2954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>High Street</name>
+    <TimeStamp><when>2017-04-13T14:18:04Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>22.14584,-34.184378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Camp Hartenbos</name>
+    <TimeStamp><when>2017-04-13T14:19:05Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>22.117301,-34.127882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cheese Shop</name>
+    <TimeStamp><when>2017-04-14T08:40:34Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>20.412334,-34.0196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>35 Siemert Road</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.056047,-26.198818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-15T06:35:20Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.46918,-34.004036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-15T19:17:56Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.471118,-34.10289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>AVIS Downtown</name>
+    <TimeStamp><when>2017-04-16T10:06:50Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.417478,-33.917913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Avis (Cape Town Airport)</name>
+    <TimeStamp><when>2017-04-16T11:40:33Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.598181,-33.972721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rope World</name>
+    <TimeStamp><when>2017-04-19T10:03:56Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.45695,-34.076931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Builders Warehouse</name>
+    <TimeStamp><when>2017-04-19T10:04:04Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.458795,-34.073074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Florence Ave 56</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.472001,-33.939826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Timbuktu</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.468789,-33.942921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Observatory Backpackers</name>
+    <TimeStamp><when>2017-04-20T07:30:53Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.46748,-33.935526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Welcome Park</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.480154,-33.924201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James' WG</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.473188,-33.951239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>TRUTH.coffeecult</name>
+    <TimeStamp><when>2017-04-20T07:41:37Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.419755,-33.917633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Eastern Food Bazar</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.42209,-33.923802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Jamie & Luis']]></name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.448825,-33.930174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Casadeboo WG</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.448601,-33.935139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Code Bridge</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.466755,-33.976561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Imhoff Caravan Park</name>
+    <TimeStamp><when>2017-04-20T07:49:54Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.33846,-34.132518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Long Beach</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.335105,-34.132064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cape Farmhouse</name>
+    <TimeStamp><when>2017-04-20T07:50:37Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.407519,-34.205684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cape Point Funicular (Lower)</name>
+    <TimeStamp><when>2017-04-20T07:51:04Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.484668,-34.350648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cape of Good Hope</name>
+    <TimeStamp><when>2017-04-20T07:51:12Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.47234,-34.357942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Carsten's</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.506401,-33.834557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Langa Community Hall</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.524956,-33.943753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Paarl</name>
+    <TimeStamp><when>2017-04-20T09:46:48Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.975,-33.741671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Klein Vredenburg Guesthouse</name>
+    <TimeStamp><when>2017-04-23T09:43:38Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.962299,-33.748176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>House On Plein</name>
+    <TimeStamp><when>2017-04-23T10:00:30Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.96154,-33.744592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Babylonstoren</name>
+    <TimeStamp><when>2017-04-23T10:46:08Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.926457,-33.823661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shoprite</name>
+    <TimeStamp><when>2017-04-23T15:38:10Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.969125,-33.73189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-04-24T14:36:05Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.728546,-33.208119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Actual AfrikaBurn</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.745323,-32.339266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Karoo Botanical Gardens</name>
+    <TimeStamp><when>2017-05-01T12:46:36Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.450392,-33.616723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>De Hollandsche Molen</name>
+    <TimeStamp><when>2017-05-01T17:55:59Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.038581,-33.856437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Robertsvlei Road</name>
+    <TimeStamp><when>2017-05-02T12:56:10Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.08703,-33.913225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>La Petite Ferme</name>
+    <TimeStamp><when>2017-05-02T13:07:54Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.136053,-33.918485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kogel Bay</name>
+    <TimeStamp><when>2017-05-03T06:38:10Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.84886,-34.233997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stellenbosch</name>
+    <TimeStamp><when>2017-05-03T06:42:01Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.849606,-33.938791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bellville</name>
+    <TimeStamp><when>2017-04-16T12:24:01Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.627399,-33.906229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chelsea</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.417764,-33.938248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>22: WhereIsMyTransport</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.416929,-33.914785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cookie Connection AirBnB</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.410044,-33.926248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sowertech AftaRobot</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.185725,-26.321783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Signal Hill</name>
+    <TimeStamp><when>2017-05-10T08:43:32Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.403914,-33.917003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Seapoint AirBnB</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.389424,-33.91905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lion's Head</name>
+    <TimeStamp><when>2017-05-10T08:45:46Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.389114,-33.935121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Muldersvlei</name>
+    <TimeStamp><when>2017-05-10T09:08:44Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.828025,-33.831134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hermon</name>
+    <TimeStamp><when>2017-05-10T10:25:39Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>18.967487,-33.43874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Artois</name>
+    <TimeStamp><when>2017-05-10T10:49:42Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>19.163972,-33.369085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Laingsburg</name>
+    <TimeStamp><when>2017-05-10T10:55:01Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>20.860108,-33.197929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Johannesburg Park</name>
+    <TimeStamp><when>2017-05-10T11:05:29Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.042301,-26.19767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Curiocity Backpackers</name>
+    <TimeStamp><when>2017-05-10T11:06:08Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.061398,-26.203944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Prince Albert Road</name>
+    <TimeStamp><when>2017-05-10T20:33:06Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>21.686713,-32.984968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hutchinson</name>
+    <TimeStamp><when>2017-05-10T20:33:49Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>23.188903,-31.498291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-05-11T06:21:18Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>25.16408,-27.900435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-05-11T08:38:39Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>26.446345,-27.121736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Welverdiend</name>
+    <TimeStamp><when>2017-05-11T12:13:35Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>27.28448,-26.378814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Randfontein</name>
+    <TimeStamp><when>2017-05-11T13:21:54Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>27.697972,-26.181351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Krugersdorp</name>
+    <TimeStamp><when>2017-05-11T13:33:32Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>27.77069,-26.109118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Georginia</name>
+    <TimeStamp><when>2017-05-11T14:13:00Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>27.880285,-26.16471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Westbury</name>
+    <TimeStamp><when>2017-05-11T14:25:47Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>27.968479,-26.188717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ghandi Backpackers</name>
+    <TimeStamp><when>2017-05-11T19:28:08Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.07784,-26.199826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>HomeBase Melville Backpackers</name>
+    <TimeStamp><when>2017-05-11T19:28:42Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.002438,-26.178319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Once in Joburg</name>
+    <TimeStamp><when>2017-05-11T19:29:30Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.036102,-26.193797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown Sugar Backpackers</name>
+    <TimeStamp><when>2017-05-11T19:30:31Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.085903,-26.180499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Commissioner Street</name>
+    <TimeStamp><when>2017-05-12T07:19:51Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.057664,-26.203722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-05-12T07:41:32Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.087628,-26.185896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dusk Till Dawn Backpacker</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.085688,-26.194382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jozi View Guest House</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.077839,-26.198186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>G-Lodge</name>
+    <TimeStamp><when>2017-05-12T08:07:10Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.065156,-26.19315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Drill Hall</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.048614,-26.199294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Skateistan Jozi</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.055443,-26.20281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Door of Hope</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.05426,-26.183456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>King Size Bed Park</name>
+    <TimeStamp><when>2017-05-15T09:58:35Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.071095,-26.196586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>landuse-railway</name>
+    <TimeStamp><when>2017-05-16T12:42:56Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.03411,-26.19671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Church</name>
+    <TimeStamp><when>2017-05-16T13:37:27Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.052,-26.193268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Street</name>
+    <TimeStamp><when>2017-05-16T13:39:25Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.052003,-26.197284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rand Bureau, Shop 129, Level 100</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.04707,-26.206607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Forex World Shop No. 5, Newtown Mall, 77A Simmonds St, Newtown</name>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>28.03969,-26.201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Building</name>
+    <TimeStamp><when>2017-05-19T22:29:12Z</when></TimeStamp>
+    <styleUrl>#placemark-mapsme</styleUrl>
+    <Point><coordinates>13.454206,52.509234</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>
