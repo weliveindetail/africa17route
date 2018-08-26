@@ -1,43 +1,52 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <title>Afrika Afrika 2016/2017</title>
-  <style>
-    .map {
-      position: absolute;
-      left: 0px;
-      right: 0px;
-      top: 0px;
-      bottom: 0px;
-    }
-  </style>
-  <script src="OpenLayers.js"></script>
-</head>
-<body>
-  <div id="map" class="map"></div>
-  <script>
-    var map = new OpenLayers.Map({
-      div: "map",
-      layers: [
-        new OpenLayers.Layer.WMS(
-            "WMS", "http://vmap0.tiles.osgeo.org/wms/vmap0",
-            {layers: "basic"}
-        ),
-        new OpenLayers.Layer.Vector("KML", {
-            strategies: [new OpenLayers.Strategy.Fixed()],
-            protocol: new OpenLayers.Protocol.HTTP({
-                url: "africa17.kml",
-                format: new OpenLayers.Format.KML({
-                    extractStyles: true,
-                    extractAttributes: true,
-                    maxDepth: 2
-                })
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Africa 2016/17</title>
+    <link rel="stylesheet" href="https://openlayers.org/en/v3.14.2/css/ol.css" type="text/css">
+    <script src="https://openlayers.org/en/v3.14.2/build/ol.js"></script>
+    <style>
+      .map {
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        top: 0px;
+        bottom: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script>
+      var map = new ol.Map({
+        layers: [
+          new ol.layer.Tile({
+            visible: true,
+            preload: Infinity,
+            source: new ol.source.BingMaps({
+              key: 'AjJvUwOugPOfApFqbYrod_JuAKXO92GzD9P5CdGFKifLnOSpiNWsE6RZ0aqPxOIt',
+              imagerySet: 'AerialWithLabels',
+              // use maxZoom 19 to see stretched tiles instead of the BingMaps
+              // "no photos at this zoom level" tiles
+              maxZoom: 19
             })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              url: 'africa17.kml',
+              format: new ol.format.KML()
+            })
+          })
+        ],
+        // Improve user experience by loading tiles while dragging/zooming. Will make
+        // zooming choppy on mobile or slow devices.
+        loadTilesWhileInteracting: true,
+        target: 'map',
+        view: new ol.View({
+          center: [3000000, -1700000],
+          projection: ol.proj.get('EPSG:3857'),
+          zoom: 4
         })
-      ],
-      center: new OpenLayers.LonLat(39.18652,-6.163741),
-      zoom: 5
-    });
-  </script>
-</body>
+      });
+    </script>
+  </body>
 </html>
